@@ -39,6 +39,9 @@ int main(){
      node1->insert_at_tail(tail,12);
      node1->insert_at_tail(tail,13);
      node1->insert_at_tail(tail,14);
+     
+     node1->insert_at_tail(tail,14);
+
 
      node1->display(header);
     
