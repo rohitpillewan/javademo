@@ -12,6 +12,8 @@ int main(){
     st.insert(3);
      st.insert(1);
     st.insert(5);
+st.insert(5);
+
     for(auto i:st){  //it return the element in sorted order also unique
         cout<<i<<endl;
     }cout<<endl;
